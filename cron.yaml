@@ -1,0 +1,4 @@
+cron:
+- description: Radio Treby scraper
+  url: /RadioTreby/
+  schedule: every 15 mins
