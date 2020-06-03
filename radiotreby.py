@@ -5,7 +5,7 @@ from spotipy.oauth2 import SpotifyClientCredentials
 import spotipy.util as util
 
 cid 		= '2dbb1a45a22249aea988931d9d8bc0c6' 
-secret 		= '6c90bbf62d8d467fb280f54b4dae7211'
+secret 		= ''
 username 	= 'sparlund'
 scope 		= 'user-library-read playlist-read-private user-read-currently-playing user-read-playback-state playlist-modify-public playlist-modify-private'
 redir_uri 	= 'http://localhost/'
